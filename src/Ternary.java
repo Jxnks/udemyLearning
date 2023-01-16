@@ -1,5 +1,5 @@
 public class Ternary {
-    public static void main(String[] args){
+    public static void main(String[] args) {
         // ternary
         double numberOne = 20.00d;
         double numberTwo = 80.00d;
